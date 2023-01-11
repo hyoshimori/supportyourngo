@@ -3,9 +3,18 @@
 
   // Changed from flex to block, the position of //
   // the photo and the texts have changed //
+
   .banner{
     display: flex;
     flex-direction: column-reverse;
+  }
+
+  div.banner__left{
+    height: 50vh;
+  }
+
+  a.explore__link__banner{
+    margin: 10px;
   }
 
   img.photo__banner{
@@ -26,18 +35,18 @@
 
   // This is disabling br from 960 //
 
-  .wrap__copy{
+  .__copy{
     display: none;
   }
 
   // // This is working to keep the br from 960 //
 
   // Removed from the left banner //
-  // .wrap__copy__under__960{
+  // .__copy__under__960{
   //   display: block;
   // }
 
-  // .wrap__home__mid__message__from__960{
+  // .__home__mid__message__from__960{
   //   display: block;
   // }
 
@@ -120,7 +129,7 @@
     width: 100%;
   }
 
-  .wrap__message__video{
+  .__message__video{
     display: none;
   }
 
@@ -230,7 +239,7 @@
   }
 
   // // this works from 560 to stop <br>//
-  // .wrap__home__mid__message__from__960{
+  // .__home__mid__message__from__960{
   //   display: none;
   // }
 }
