@@ -1,8 +1,18 @@
+@media (max-width: 1160px) {
+  /* For a screen < 1160px, this CSS will be read */
+
+  .banner__left h1{
+    font-size: 37px;
+    padding: 17vh 7vw;
+  }
+}
+
 @media (max-width: 1060px) {
   /* For a screen < 1060px, this CSS will be read */
 
   .banner__left h1{
     font-size: 37px;
+    padding: 15vh 5vw;
   }
 }
 @media (max-width: 960px) {
