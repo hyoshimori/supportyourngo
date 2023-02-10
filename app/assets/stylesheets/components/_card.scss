@@ -4,7 +4,7 @@
   width: 100%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 2vh;
+  grid-gap: 5vh 2vw;
   flex-grow: 1;
 }
 
@@ -17,7 +17,7 @@
   width: 300px;
   background-color: white;
   color: white;
-  border-radius: 5px;
+  border-radius: 15px;
   margin: auto;
   position: relative;
   border-color: $ngo-blue;
@@ -50,7 +50,7 @@
   display: block;
   height: 100%;
   right: 0;
-  padding: 2vh 2vw;
+  padding: 1vh 1vw;
   color: black;
   text-decoration: none;
 }
