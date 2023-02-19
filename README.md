@@ -23,7 +23,7 @@ The back-end team implemented a dashboard, seed data, database schema, validatio
 
 ## Installation
 
-You can clone this project using the command line interface. All the rights are reserved.
+You can clone this project using the command line interface.
 
 ## Usage
 
