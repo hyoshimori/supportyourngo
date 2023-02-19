@@ -1,6 +1,6 @@
 # Le Wagon Team Project - Funding Platform
 
-This is a platform that connects companies and NGOs that need funding for their projects. The application is a team project created by Le Wagon team.
+This is a platform that connects companies and NGOs that need funding for their projects. The application is a team project created by a team of students fron Le Wagon.
 
 ## Dependencies
 
